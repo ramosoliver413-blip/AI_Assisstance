@@ -1,0 +1,6 @@
+{
+  "name": "AssignMATE AI",
+  "description": "An AI-powered assignment assistant featuring Ver_Ram AI to help students understand, analyze, organize, and work through school assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
